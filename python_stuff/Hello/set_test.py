@@ -1,0 +1,12 @@
+#!/user/bin/python3
+mySet = set()
+mySet.add("1")
+mySet.add("2")
+mySet.add("3")
+mySet.add("1")
+mySet.add("2")
+mySet.add("3")
+print(mySet)
+mySet.add("4")
+mySet.add("3")
+print(mySet)
