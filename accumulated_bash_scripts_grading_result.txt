@@ -1,0 +1,36 @@
+
+Checking for bash_stuff or bash_scripts
+grading filename hello.sh, points 1
+File hello.sh not found, checking entire repo for file.
+Found file hello.sh, but at these locations:
+    ./hello.sh
+    ./In_Class_Labs/Week_2/hello.sh
+Score 1 out of 1 for file hello.sh
+grading filename hello_variable.sh, points 1
+Score 1 out of 1 for file hello_variable.sh
+grading filename hello_multi_variable.sh, points 1
+File hello_multi_variable.sh not found, checking entire repo for file.
+file hello_multi_variable.sh still not found
+grading filename multargs.sh, points 2
+Score 2 out of 2 for file multargs.sh
+grading filename timesleep.sh, points 2
+Score 2 out of 2 for file timesleep.sh
+grading filename killsleep.sh, points 2
+Score 2 out of 2 for file killsleep.sh
+grading filename arraysub.sh, points 1
+Score 1 out of 1 for file arraysub.sh
+grading filename stringtest.sh, points 2
+Score 2 out of 2 for file stringtest.sh
+grading filename countfiles.sh, points 2
+Score 2 out of 2 for file countfiles.sh
+grading filename countthes.sh, points 2
+Score 2 out of 2 for file countthes.sh
+grading filename function_test.sh, points 2
+Score 2 out of 2 for file function_test.sh
+grading filename mean_grades.sh, points 4
+Score 4 out of 4 for file mean_grades.sh
+grading filename sum_unknown_numbers.sh, points 2
+Score 2 out of 2 for file sum_unknown_numbers.sh
+grading filename useless.sh, points 1
+Score 1 out of 1 for file useless.sh
+total 25, num_found 24
