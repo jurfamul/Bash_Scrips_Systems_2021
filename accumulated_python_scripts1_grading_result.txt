@@ -1,0 +1,103 @@
+
+Checking for python_stuff
+grading filename hello.py, points 1
+File hello.py not found, checking entire repo for file.
+Found file hello.py, but at these locations:
+    ./python_stuff/Hello/hello.py
+Score 1 out of 1 for file hello.py
+grading filename hello_variable.py, points 1
+File hello_variable.py not found, checking entire repo for file.
+Found file hello_variable.py, but at these locations:
+    ./python_stuff/Hello/hello_variable.py
+Score 1 out of 1 for file hello_variable.py
+grading filename hello_multi_variable.py, points 1
+File hello_multi_variable.py not found, checking entire repo for file.
+Found file hello_multi_variable.py, but at these locations:
+    ./python_stuff/Hello/hello_multi_variable.py
+Score 1 out of 1 for file hello_multi_variable.py
+grading filename sys_import1.py, points 1
+File sys_import1.py not found, checking entire repo for file.
+Found file sys_import1.py, but at these locations:
+    ./python_stuff/Hello/sys_import1.py
+Score 1 out of 1 for file sys_import1.py
+grading filename sys_import2.py, points 1
+File sys_import2.py not found, checking entire repo for file.
+Found file sys_import2.py, but at these locations:
+    ./python_stuff/Hello/sys_import2.py
+Score 1 out of 1 for file sys_import2.py
+grading filename sys_import3.py, points 1
+File sys_import3.py not found, checking entire repo for file.
+Found file sys_import3.py, but at these locations:
+    ./python_stuff/Hello/sys_import3.py
+Score 1 out of 1 for file sys_import3.py
+grading filename tuple_test.py, points 1
+File tuple_test.py not found, checking entire repo for file.
+Found file tuple_test.py, but at these locations:
+    ./python_stuff/Hello/tuple_test.py
+Score 1 out of 1 for file tuple_test.py
+grading filename list_test.py, points 1
+File list_test.py not found, checking entire repo for file.
+Found file list_test.py, but at these locations:
+    ./python_stuff/Hello/list_test.py
+Score 1 out of 1 for file list_test.py
+grading filename join_split.py, points 2
+File join_split.py not found, checking entire repo for file.
+Found file join_split.py, but at these locations:
+    ./python_stuff/Hello/join_split.py
+Score 2 out of 2 for file join_split.py
+grading filename set_test.py, points 1
+File set_test.py not found, checking entire repo for file.
+Found file set_test.py, but at these locations:
+    ./python_stuff/Hello/set_test.py
+Score 1 out of 1 for file set_test.py
+grading filename dict_test.py, points 1
+File dict_test.py not found, checking entire repo for file.
+Found file dict_test.py, but at these locations:
+    ./python_stuff/Hello/dict_test.py
+Score 1 out of 1 for file dict_test.py
+grading filename range_slice.py, points 3
+File range_slice.py not found, checking entire repo for file.
+Found file range_slice.py, but at these locations:
+    ./python_stuff/Hello/range_slice.py
+Score 3 out of 3 for file range_slice.py
+grading filename math_test.py, points 2
+File math_test.py not found, checking entire repo for file.
+Found file math_test.py, but at these locations:
+    ./python_stuff/Hello/math_test.py
+Score 2 out of 2 for file math_test.py
+grading filename simple_calculator.py, points 4
+File simple_calculator.py not found, checking entire repo for file.
+Found file simple_calculator.py, but at these locations:
+    ./python_stuff/Hello/simple_calculator.py
+Score 4 out of 4 for file simple_calculator.py
+grading filename number_sieve.py, points 5
+File number_sieve.py not found, checking entire repo for file.
+Found file number_sieve.py, but at these locations:
+    ./python_stuff/Hello/number_sieve.py
+Score 5 out of 5 for file number_sieve.py
+grading filename function_test.py, points 3
+File function_test.py not found, checking entire repo for file.
+Found file function_test.py, but at these locations:
+    ./python_stuff/Hello/function_test.py
+Score 3 out of 3 for file function_test.py
+grading filename top_two.py, points 2
+File top_two.py not found, checking entire repo for file.
+Found file top_two.py, but at these locations:
+    ./python_stuff/Hello/top_two.py
+Score 2 out of 2 for file top_two.py
+grading filename test_default.py, points 2
+File test_default.py not found, checking entire repo for file.
+Found file test_default.py, but at these locations:
+    ./python_stuff/Hello/test_default.py
+Score 2 out of 2 for file test_default.py
+grading filename map_test.py, points 4
+File map_test.py not found, checking entire repo for file.
+Found file map_test.py, but at these locations:
+    ./python_stuff/Hello/map_test.py
+Score 4 out of 4 for file map_test.py
+grading filename reduce_test.py, points 3
+File reduce_test.py not found, checking entire repo for file.
+Found file reduce_test.py, but at these locations:
+    ./python_stuff/Hello/reduce_test.py
+Score 3 out of 3 for file reduce_test.py
+total 40, num_found 40
