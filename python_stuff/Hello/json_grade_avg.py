@@ -1,7 +1,5 @@
 #!/user/bin/python3
-import sys
 import json
-import pprint as pp
 inFileName = "grades.json"
 
 with open(inFileName, 'r') as json_inFile:
